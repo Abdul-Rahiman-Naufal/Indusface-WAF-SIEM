@@ -7,8 +7,8 @@ from datetime import date, datetime
 Log_Folder='C:\Indusface'
 
 URL="https://tas.indusface.com/wafportal/rest/siem/v1/getAuthToken"
-API_ID='APIKEY43xw11468'
-API_Key='NAJpCcwoTLgHhZqhFUTVE9PGulkhw8OC'
+API_ID=''
+API_Key=''
 Config=Log_Folder+'\Indusface.ini'
 
 endTime=round(time.time() * 1000)
