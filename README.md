@@ -1,6 +1,6 @@
 # Indusface-WAF-SIEM
 
-The scripts are created for integrating Indusface cloud WAF with SIEM.
+The script is created for integrating Indusface cloud WAF with SIEM. (Tested on LogRhythm)
 
 https://docs.indusface.com/product-user-guide-apptrana/indusface-siem
 
