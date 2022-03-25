@@ -19,4 +19,5 @@ Pull_Logs.py is used to get attack logs from the Indusface WAF, API allows maxim
 Update the URL and path as per your environment.
 
 Create two tasks in task scheduler,
+
 ![image](https://user-images.githubusercontent.com/79724838/160105433-35ab4bb1-e1e0-4f9f-93c7-578f2d30e25b.png)
